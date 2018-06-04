@@ -42,4 +42,4 @@ The codes of the project are shown as script.R file in a project pipeline format
 
  The script [data cleaning](/codes/01_datacleaning_retail.R) shows the basic cleaning and preparation of the raw data for the further analysis steps.
  The next script [EDA](/codes/02_eda_retail.R) unveils the interesting facts of the data using exploratory data analysis techniques.
- Finally [market basket](/codes/03_marketbasket_retail.R) analysis is conducted to identify the products that often co-occur in transactions.
+ Finally [market basket](/codes/03_market_basket.R) analysis is conducted to identify the products that often co-occur in transactions.
